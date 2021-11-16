@@ -17,7 +17,7 @@ module.exports = {
   socialImageSubtitle: 'Hello World! ',
 
   // social usernames (optional)
-  twitter: 'Ernesto95915125',
+  twitter: 'sololearn',
   github: '',
   linkedin: '',
 

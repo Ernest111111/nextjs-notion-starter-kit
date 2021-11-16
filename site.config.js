@@ -7,14 +7,14 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'dairy',
-  domain: 'https://www.notion.so/dairy-326e50ea9ecf4d23b7ddd14d1ccc1889',
+  name: 'diary',
+  domain: 'https://www.notion.so/diary-326e50ea9ecf4d23b7ddd14d1ccc1889',
   author: 'shane',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
-  socialImageSubtitle: 'Hello World! ',
+  description: 'diary',
+  socialImageTitle: 'shane',
+  socialImageSubtitle: 'hello!',
 
   // social usernames (optional)
   twitter: 'sololearn',
